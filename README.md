@@ -1,6 +1,7 @@
 # Golang实现singleflight
 
 
+代码地址: https://github.com/gofish2020/easysingleflight
 
 ### 好处
 提升系统的高可用性，避免突发的大流量导致整个系统的熔断。
